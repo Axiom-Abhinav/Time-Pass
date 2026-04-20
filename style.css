@@ -1,0 +1,66 @@
+header h1{
+        color:violet;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        text-align: center;
+        text-decoration: underline;
+}
+header p{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    background: linear-gradient(to left, green, yellow) 
+}
+#S {
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    background:linear-gradient(to left, red, orange);
+}
+#S p{
+    color:white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;  
+    list-style-type: circle;    
+}
+body{
+    background: linear-gradient(to right, violet, indigo)
+}
+#S1{
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    background:linear-gradient(to left, red, blue);
+}
+#S1 p{
+    color:white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    background-color:#111;
+    color:#ccc;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    padding:15px 10px;
+    position:relative;
+    bottom:0;
+    width:100%;
+    font-size:14px;
+    letter-spacing:0.5px;
+    border-radius: 10px;
+}
+footer p{
+    margin:5px 0;
+}
